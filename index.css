@@ -1,0 +1,32 @@
+    #text{
+
+    color: brown;
+    background-color:lightgreen;
+    }
+    
+    
+    
+    .box{
+    
+        color: darkred;
+        background-color: aquamarine;
+    }
+    
+    
+    .box2{
+    
+    
+        border: 2px solid black;
+        height: 200px;
+        width: 200px;
+    }
+    .random{
+    
+    
+    height: 150px;
+    width: 200px;
+    border: 2px solid green;
+    margin: 50px;
+    padding: 100px;
+    
+    }
